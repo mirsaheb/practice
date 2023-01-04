@@ -1,7 +1,8 @@
 body{
     width: 90%;
     margin: 0 auto;
-    background-color: darkgray;
+    background-color: rgb(236, 236, 236);
+    color: rgb(26, 26, 26);
 }
 
 ul{
@@ -15,5 +16,5 @@ ul li{
   display:inline-block;
  
   font-weight: 800;
-  color: blueviolet;
+  color: rgb(82, 121, 19);
 }
